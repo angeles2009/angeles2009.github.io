@@ -1,0 +1,13 @@
+<¡DOCTYPE html>
+<html lang="es-ES">
+	<head>
+		<meta charset="utf-8">
+		<tittle>LA PAGINA WED DE M.ANGELES
+	</head>
+	<body>
+	 	<h1>La gimnasia ritmica</h1>
+		<hr>
+		<p>· <a href="pagina.1">¿Que es la gimnasia?</a></p>
+		<p>· <a href="pagina.2">¿Que aparatos se utilizan?</a></p>
+	</body>
+</html>
